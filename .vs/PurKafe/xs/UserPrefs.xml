@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{1F5FC681-2E57-746F-6974-D0C838B8F252}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DeskDetails.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TopPanelScript.cs" Line="20" Column="21" />
+      <File FileName="Assets/Scripts/MenuPanelScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TableManager.cs" />
+      <File FileName="Assets/Scripts/DeskDetails.cs" Line="36" Column="6" />
+      <File FileName="Assets/Scripts/DeskData.cs" Line="17" Column="31" />
+      <File FileName="Assets/Scripts/Product.cs" Line="11" Column="2" />
+      <File FileName="Assets/Scripts/NewClass.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NewBehaviourScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PurKafe" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="DeskDetails.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="369db1ad-358a-44aa-b666-3cf6ef69eef2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
